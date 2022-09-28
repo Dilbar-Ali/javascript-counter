@@ -1,0 +1,28 @@
+.container{
+    background:linear-gradient(to right,red ,blue ,green);
+    height: 95vh;
+    width: 99vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-family: monospace;
+    align-items: center;
+}
+h2{
+    font-size: 40px;
+}
+
+.conuter{
+ background-color: rgba(255, 255, 255, 0.139);
+ padding: 40px 70px 40px 70px;
+ border-radius: 10px;
+ text-align: center;
+}
+
+button{border-radius: 10px;
+    
+    padding: 10px;
+   border: none;
+   background-color: rgba(26, 217, 157, 0.338);
+
+}
